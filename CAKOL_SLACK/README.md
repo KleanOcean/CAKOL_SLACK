@@ -1,11 +1,8 @@
-# @Jokebot
+# OTO
 
-> Simple slackbot built with Node.js and Slackbots.js that tells random Chuck Norris and Yo Mama jokes.
+> Simple education slackbot built with Node.js and Slackbots.js for COMP4461 Project 2.
 
-## APIs Used:
-[http://www.icndb.com/api/](http://www.icndb.com/api/)
 
-[http://yomomma.info/](http://yomomma.info/)
 
 ## Slackbots (slack-bot-api)
 [https://github.com/mishk0/slack-bot-api](https://github.com/mishk0/slack-bot-api)
@@ -24,10 +21,7 @@ npm start
 
 ## App Info
 
-### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 

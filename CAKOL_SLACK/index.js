@@ -2,8 +2,8 @@ const SlackBot = require('slackbots');
 const axios = require('axios');
 
 const bot = new SlackBot({
-    token: 'xoxb-1448243822455-1475862205921-7FSctrklMP5ZEXSFZOC0oBJ9',
-    name: 'gody'
+    token: '',
+    name: 'OTO'
 });
 
 const channel = "general";
